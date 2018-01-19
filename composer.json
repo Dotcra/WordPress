@@ -1,0 +1,8 @@
+{
+    "name": "dotcra/wprdpress",
+    "type": "project",
+    "description": "so I can use composer to install wordpress.",
+    "require": {
+        "php": "^5.2.4 || ^7.0"
+    }
+}
